@@ -40,7 +40,7 @@ Prepared via `prepare_student_data.py` (downloads the UCI zip, derives
 
 ## c. GitHub Repository Link
 
-https://github.com/thirumalakiran/ML_ASSIGNMENT_2
+https://github.com/thirumalakiran/ML_Assignment
 
 ## d. Models Used
 
