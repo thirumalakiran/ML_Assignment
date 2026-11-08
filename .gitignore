@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Cached raw dataset download (regenerate via prepare_student_data.py)
+data/
+
+# Assignment prompt (not a project deliverable)
+*.pdf
+
+# Streamlit
+.streamlit/secrets.toml
